@@ -6,7 +6,8 @@
 (1.) Download and install nodejs 4.x.x, mongodb 3.x.x, and  7-zip.
 
 (2.) After downloading/cloning this repository, navigate to folder and  extract the four 7z files for
-     client, data,seed and node_modules folders to this directory.
+     client, data,seed and node_modules folders to this directory. Then navigate to folder public and 
+     extract bower_components folder from bower_components.7z to this directory.
 
 (3. ) In the folder, open a command line interface by typing
       "cmd" in the address bar and pressing enter.
