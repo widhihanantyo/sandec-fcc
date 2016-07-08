@@ -5,11 +5,10 @@
 
 (1.) Download and install nodejs 4.x.x, mongodb 3.x.x, and  7-zip.
 
-(2.) After downloading/cloning this repository, navigate to folder
-     freecodecamp and  extract the four 7z files for
+(2.) After downloading/cloning this repository, navigate to folder and  extract the four 7z files for
      client, data,seed and node_modules folders to this directory.
 
-(3. ) In folder freecodecamp, open a command line interface by typing
+(3. ) In the folder, open a command line interface by typing
       "cmd" in the address bar and pressing enter.
 
 (4.) Check if mongodb is added to your PATH variable open
@@ -26,12 +25,11 @@
        RUNNING THE SOFTWARE
 *******************************
 
-(1.) Open the folder FCC_PACK, then open the folder freecodecamp.
-  Open a command line interface by typing "cmd" in the address bar
+(1.) Open the folder ,then open a command line interface by typing "cmd" in the address bar
   and pressing enter. Run the mongodb database by typing
   the command "database" and press enter.
 
-(2.)In the same  freecodecamp folder. Open another command line 
+(2.)In this folder. Open another command line 
     interface by typing "cmd" in the address bar and pressing enter.
    Start the application by typing the command "gulp" and press enter.
    Wait till you see these lines
