@@ -59,7 +59,6 @@ Then open localhost:3000 in your  browser.
 pressing CTRL + C twice. Then run "gulp" command again.
 Done!
 
-Need any assistance, whatsapp +2347033009109
 
 
 
