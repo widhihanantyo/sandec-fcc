@@ -6,17 +6,41 @@
 (1.) Download and install nodejs 4.x.x, mongodb 3.x.x, and  7-zip.
 
 (2.) After downloading/cloning this repository, navigate to folder and 
-       extract the three .7z files for data,public and node_modules folders to the immediate directory. 
+       extract the three .7z files for data,public and node_modules folders to the immediate directory.
+      Note the tree below  to avoid duplication of the folders.
+	
+	master:.
+	+---.github
+	+---client  
+	+---common
+	+---config
+	+---data
+	¦   +   ...
+	+---node_modules
+	¦   +---.bin
+	¦   +---accepts
+	¦   +---adler32
+	¦   +---async
+	¦   +---babel-cli
+	¦   +	...
+	+---public
+	¦   +---bower_components
+	¦   +---css
+	¦   +---fonts
+	¦   +	...
+	+---test	
 
 (3. ) In the folder, open a command line interface by typing
       "cmd" in the address bar and pressing enter.
 
-(4.) Check if nodejs mongodb is added to your PATH variable open
-    a command line interface and type "mongod --version". 
+(4.) Check if nodejs and mongodb are added to your PATH variable.
+ 	For mongodb, open a command line interface and type "mongod --version". 
     The result should be  v3.x.x. If it is not recognized
     as an internal or external. Add
    C:\Program Files\MongoDB\Server\3.0\bin to your PATH variable
    (depends on where mongodb was installed on your system).
+   For nodejs check "node --version". Repeat similar steps as above, if
+   missing.
 
 
 
