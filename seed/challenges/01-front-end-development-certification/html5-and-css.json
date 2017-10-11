@@ -6,63 +6,25 @@
   "challenges": [
     {
       "id": "bd7123c8c441eddfaeb5bdef",
-      "descriptionPtBR": [
-        "Seja bem vindo ao primeiro desafio de programação do Free Code Camp!",
-        "Você pode editar o seu <code>código</code> em seu <code>editor de texto</code>, que embutimos aqui nesta página da web.",
-        "Consegue ver o código que diz <code>&#60;h1&#62;Hello&#60;/h1&#62;</code> no seu editor de texto? Esse é um elemento HTML.",
-        "A maioria dos elementos HTML tem uma <code>tag de abertura</code> e uma <code>tag de fechamento</code>.",
-        "As tags de abertura são assim: <code>&#60;h1&#62;</code>. E as tags de fechamento são assim: <code>&#60;/h1&#62;</code>.",
-        "Note que a única diferença entre as tags de abertura e fechamento é que as de fechamento possuem uma barra (/) depois do sinal de abertura (<).",
-        "Cada desafio possui testes que você pode executar a qualquer momento ao clicar no botão \"Executar testes\". Quando você conseguir passar em todos os testes, poderá avançar para o próximo desafio.",
-        "Para passar nos testes deste desafio, mude o texto do elemento <code>h1</code> para que diga \"Hello World\" no lugar de \"Hello\". Depois, clique no botão \"Executar testes\"."
-      ],
-      "namePtBR": "Diga Olá aos Elementos HTML",
-      "descriptionDe": [
-        "Willkommen bei der ersten Programmier-Challenge von Free Code Camp!",
-        "Mithilfe des eingebauten <code>text editor</code> kannst du den <code>code</code> bearbeiten.",
-        "Siehst du den Code <code>&#60;h1&#62;Hallo&#60;/h1&#62;</code> im Editor? Das ist ein HTML <code>element</code>",
-        "Die meisten HTML Elemente haben einen <code>opening tag</code> und einen <code>closing tag</code>.",
-        "Öffnende Tags sehen so aus:",
-        "<code>&#60;h1&#62;</code>",
-        "Schließende Tags so:",
-        "<code>&#60;/h1&#62;</code>",
-        "Beachte, dass der einzige Unterschied zwischen öffnenden und schließenden Tags ist, das schließende Tags ein Slash nach der sich öffnenden spitzen Klammer folgt.",
-        "Jede Challenge hat Tests die du jederzeit starten kannst indem du den \"Run tests\" Button drückst. Wenn alle Tests bestehen kannst du mit der nächsten Challenge fortfahren.",
-        "Um den Test dieser Challenge zu bestehen, ändere den Text deines <code>h1</code> Elements von \"Hello\" zu \"Hello World\". Klicke dann den \"Run tests\" Button."
-      ],
-      "titleRU": "Скажи привет HTML-элементам",
-      "descriptionRU": [
-        "Добро пожаловать на первое программное испытание Free Code Camp.",
-        "Вы можете редактировать <code>код</code> в вашем <code>текстовом редакторе</code>, который мы встроили в эту web-страницу.",
-        "Видите этот код в вашем текстовом редакторе: <code>&#60;h1&#62;Hello&#60;/h1&#62;</code>? Это HTML <code>элемент</code>.",
-        "Большинство HTML-элементов имеют <code>открывающую метку</code> <code>закрывающую метку</code>.",
-        "Открывающие метки выглядят так:",
-        "<code>&#60;h1&#62;</code>",
-        "Закрывающие метки выглядят следующим образом:",
-        "<code>&#60;/h1&#62;</code>",
-        "Обратите внимание, что единственная разница между открывающими и закрывающими метками заключается в наличии косой черты после открывающей треугольной скобки.",
-        "Каждое испытание имеет функцию проверки решения, которую вы можете запустить в любой момент нажатием на кнопку \"Run tests\". Как только ваше решение будет удовлетворять всем требованиям, вы сможете перейти к следующему испытанию.",
-        "Для прохождения этого испытания измените текст элемента <code>h1</code> с \"Hello\" на \"Hello World\". Затем нажмите кнопку \"Run tests\"."
-      ],
       "title": "Say Hello to HTML Elements",
       "description": [
-        "Welcome to Free Code Camp's first coding challenge.",
-        "You can edit <code>code</code> in your <code>text editor</code>, which we've embedded into this web page.",
-        "Do you see the code in your text editor that says <code>&#60;h1&#62;Hello&#60;/h1&#62;</code>? That's an HTML <code>element</code>.",
-        "Most HTML elements have an <code>opening tag</code> and a <code>closing tag</code>.",
-        "Opening tags look like this:",
+        "Selamat datang di tantangan ngoding Free Code Camp (translated by: SANDEC) yang pertama.",
+        "Kamu bisa mengedit <code>code</code> di <code>text editor</code>, yang ada di sebelah kanan atau bawahmu (kalah di hp)",
+        "Apakah kamu melihat di teks editormu yang berisi <code>&#60;h1&#62;Hello&#60;/h1&#62;</code>? Itu adalah HTML <code>element</code>.",
+        "Kebanyakan HTML elements mempunyai <code>pembuka tag</code> dan sebuah <code>penutup tag</code>.",
+        "Pembuka tags kurang lebih seperti ini:",
         "<code>&#60;h1&#62;</code>",
-        "Closing tags look like this:",
+        "Kalau penutup tags seperti ini:",
         "<code>&#60;/h1&#62;</code>",
-        "Note that the only difference between opening tags and closing tags is that closing tags have a slash after their opening angle bracket.",
-        "Each challenge has tests that you can run at any time by clicking the \"Run tests\" button. Once you get all tests passing, you can advance to the next challenge.",
-        "To pass the test on this challenge, change your <code>h1</code> element's text to say \"Hello World\" instead of \"Hello\". Then click the \"Run tests\" button."
+        "Ingat, perbedaan pembuka dan penutup tags adalah ada tanda / untuk menunjukkan kalau itu sebuah tags penutup setelah kurung <.",
+        "Di setiap misi/tantangan kamu bisa menyelesaikannya dengan menekan tombol \"Run tests\". Kalau kamu lolos semua tes yang ada, kamu akan bisa lanjut ke misi selanjutnya :).",
+        "Untuk bisa lolos di misi ini, ubah teks dari HTML Element <code>h1</code> menjadi \"Hello World\" yang sebelumnya berisi \"Hello\". Dan klik tombol \"Run tests\" untuk menyelesaikannya."
       ],
       "challengeSeed": [
         "<h1>Hello</h1>"
       ],
       "tests": [
-        "assert.isTrue((/hello(\\s)+world/gi).test($('h1').text()), 'message: Your <code>h1</code> element should have the text \"Hello World\".');"
+        "assert.isTrue((/hello(\\s)+world/gi).test($('h1').text()), 'message: Element <code>h1</code>harus berisi teks \"Hello World\".');"
       ],
       "type": "waypoint",
       "titleEs": "Saluda a los Elementos HTML",
