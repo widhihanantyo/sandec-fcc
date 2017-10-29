@@ -153,7 +153,7 @@
       "id": "bad87fee1348bd9aedf08802",
       "descriptionPtBR": [
         "\"Comentar\" é uma forma de deixar anotações em seu código sem afetá-lo.",
-        "Comentar também é um jeito conveniente de deixar seu código inativo sem precisar apagá-lo por completo.",
+        "Mengomentari juga merupakan cara mudah untuk membiarkan kode Anda tidak aktif tanpa harus menghapusnya sepenuhnya.",
         "Você pode iniciar um comentário com <code>&#60;!--</code> e terminar seu comentário com <code>--&#62;</code>.",
         "Remova o comentário dos elementos <code>h1</code>, <code>h2</code> e <code>p</code>."
       ],
