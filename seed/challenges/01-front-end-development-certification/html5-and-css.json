@@ -231,7 +231,7 @@
       ],
       "challengeSeed": [
         "<!--",
-        "<h1>Hello World</h1>",
+        "<h1>Hello Worlds!!!</h1>",
         "",
         "<h2>CatPhotoApp</h2>",
         "",
@@ -400,9 +400,9 @@
       "type": "waypoint",
       "titleEs": "Cambia el color del texto",
       "descriptionEs": [
-        "Ahora cambiemos el color de parte de nuestro texto.",
-        "Podemos hacer esto cambiando el <code>style</code> del elemento <code>h2</code>",
-        "La propiedad de estilo responsable del color de texto es \"color\".",
+        "Sekarang mari kita ubah warna bagian dari teks kita",
+        "Kita bisa melakukan ini dengan mengubah <code>style</code> elemen <code>h2</code>",
+        "Properti gaya yang bertanggung jawab untuk warna teks adalah \"color\".",
         "Así es como podrías poner en azul el color de texto de tu elemento <code>h2</code>:",
         "<code>&#60;h2 style=\"color: blue\"&#62;CatPhotoApp&#60;/h2&#62;</code>",
         "Cambia el estilo del elemento <code>h2</code> de manera que el color de su texto sea rojo."
