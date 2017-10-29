@@ -4982,7 +4982,11 @@
       "descriptionDe": [
         "Wie auch mit Hexadezimal Code, kannst du Farben in RGB mischen indem du Kombination von verschiedenen Werten nimmst.",
         "Ändere die Hintergrundfarbe des <code>body</code> Elements zum RGB Wert von Orange: <code>rgb(255, 165, 0)</code>"
-      ]
+      ],
+       "titleRe": "Gunakan RGB untuk mencampur warna",
+      "descriptionRe": [
+        "Seperti kode heksadesimal, Anda dapat mencampur warna dalam RGB dengan menggabungkan nilai yang berbeda.",
+        "Ubah warna latar belakang elemen <code> body </ code> ke nilai RGB Orange: <code> rgb (255, 165, 0) </ code>"
     }
   ]
 }
