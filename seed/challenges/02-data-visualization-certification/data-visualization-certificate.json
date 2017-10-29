@@ -30,8 +30,12 @@
           "An image of the word \"Congratulations\"",
           "Congratulations! We've added your Data Visualization Certificate to your portfolio page. Unless you choose to hide your solutions, this certificate will remain publicly visible and verifiable.",
           ""
-        ]
-      ],
+        ],
+        [
+          "Sebuah Gambar dengan tulisan \"Selamat\"",
+          "Selamat! Kami telah menambahkan Sertifikat Visualisasi Data ke halaman portofolio Anda. Kecuali Anda memilih untuk menyembunyikan solusi Anda, sertifikat ini akan tetap terlihat dan dapat diverifikasi oleh publik.",
+          ""
+        ],
       "challengeSeed": [
         {
           "properties": [
